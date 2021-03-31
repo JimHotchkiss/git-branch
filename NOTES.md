@@ -6,4 +6,11 @@
 
 # Now you can preform work on this new branch without touching the main branch
 
+
 5.) 'git add . ', 'git commit -m "", 'git push' - To commit changes to newly created branch
+
+
+
+
+
+
